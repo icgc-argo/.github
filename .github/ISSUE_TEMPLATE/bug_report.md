@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Report a bug in software development
-title: ":bug: "
+title: "🐛 "
 labels: bug
 assignees: ''
 
