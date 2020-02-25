@@ -2,7 +2,7 @@
 name: Beta Feedback
 about: Request an  enhancement to the current software 
 title: "Beta-Feedback"
-labels: user-support,new-feature
+labels: user-support,new-feature,BETA
 assignees: 'rosibaj'
 
 ---
