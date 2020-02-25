@@ -2,7 +2,7 @@
 name: Beta-Feedback
 about: Request an  enhancement to the current software 
 title: "Beta-Feedback"
-labels: new-feature, user-supprt
+labels: new-feature;user-supprt
 assignees: ''
 
 ---
