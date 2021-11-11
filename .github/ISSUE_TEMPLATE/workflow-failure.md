@@ -3,7 +3,7 @@ name: Run Failure
 about: A production workflow as failed for some reason
 title: "Workflow Run Failure"
 labels: production,bug,user-support
-assignees: 'rosibaj'
+assignees:
 
 ---
 

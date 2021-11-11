@@ -3,7 +3,7 @@ name: Feature Request
 about: Request an  enhancement to the current software 
 title: "Feature Request "
 labels: new-feature
-assignees: 'rosibaj'
+assignees:
 
 ---
 
