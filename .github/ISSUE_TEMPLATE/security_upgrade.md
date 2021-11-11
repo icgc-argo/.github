@@ -3,7 +3,7 @@ name: Security Upgrade
 about: Request a security upgrade for an application dependency.
 title: "Security Upgrade"
 labels: major
-assignees: 'rosibaj'
+assignees:
 
 ---
 A needed scurity upgrade has been indiated: 

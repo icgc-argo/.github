@@ -3,7 +3,7 @@ name: Bug report
 about: Report a bug in software development
 title: "🐛 "
 labels: bug
-assignees: 'rosibaj'
+assignees:
 
 ---
 ## Describe the bug
